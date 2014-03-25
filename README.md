@@ -1,5 +1,5 @@
 # Wearscript Playground #
-<http://github.com/OpenShades/wearscript-playground>
+<http://github.com/wearscript/wearscript-playground>
 
 ## About ##
 The web-based IDE for WearScript. Write code, pair glass, save, and enjoy.
@@ -18,7 +18,7 @@ The web-based IDE for WearScript. Write code, pair glass, save, and enjoy.
   1. Clone repo and submodules
 
     ```bash
-    git clone git@github.com:OpenShades/wearscript-playground.git
+    git clone git@github.com:wearscript/wearscript-playground.git
     cd wearscript-playground
     git submodule update --init
     ```

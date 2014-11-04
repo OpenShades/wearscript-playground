@@ -125,7 +125,7 @@ module.exports = function (grunt) {
               , '/authgh'
               ]
           , host: 'localhost'
-          , port: 4938
+          , port: 8080
           , https: false
           , changeOrigin: false
           , xforward: false
@@ -156,7 +156,7 @@ module.exports = function (grunt) {
         proxies: [
           { context: [ '/' ]
           , host: 'localhost'
-          , port: 4938
+          , port: 8080
           , https: false
           , changeOrigin: false
           , xforward: false

@@ -2,9 +2,9 @@
   "name": "wearscript-playground",
   "version": "0.0.1",
   "dependencies": {
-    "angular": "1.2.14",
-    "angular-resource": "1.2.14",
-    "angular-route": "1.2.14",
+    "angular": "1.2.5",
+    "angular-resource": "1.2.5",
+    "angular-route": "1.2.5",
     "angular-ui-ace": "bower",
     "angular-logging": "https://gist.github.com/6938531.git",
     "wearscript-js": "https://github.com/lrvick/wearscript-js.git",
@@ -15,8 +15,8 @@
     "angular-bootstrap": "~0.10.0",
     "angular-hammer": "~1.0.3",
     "angular-ui-utils": "~0.1.1",
-    "angular-sanitize": "~1.2.15",
-    "angular-intro.js": "~1.0.2",
+    "angular-sanitize": "1.2.5",
+    "angular-intro.js": "1.1.3",
     "qrcode": "~1.0.1",
     "angular-qr": "~0.1.4"
   },
